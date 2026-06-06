@@ -1,31 +1,36 @@
-👋 Hi, I'm Mugdha!
-🔹 Aspiring Data Analyst | Python & Machine Learning Enthusiast
+👋 Hi, I'm Mugdha Mridul!
+
+🔹 Quality Assurance Engineer | Test Automation | Android & AI App Developer
 
 🚀 About Me
-🎓 Final-year Electronics and Telecommunication Engineering student
-📊 Passionate about Data Analysis, Machine Learning, and Automation
-🛠️ Experienced in Python, Power BI, SQL, and Data Visualization
-💡 Constantly learning new technologies and working on real-world projects
-🔍 What I’m Working On
-📚 Book Recommender System using Machine Learning
-📊 Data Analytics & Visualization projects in Power BI
-🛰 Image Processing with Deep Learning & Google Earth Engine
+🎓 B.E. in Electronics & Telecommunication – Dayananda Sagar College of Engineering (2025)
+🧪 QA Engineer at Chola MS General Insurance, specializing in automated and manual testing
+⚙️ Passionate about building scalable test frameworks that catch bugs before users do
+💡 Android development background gives me a developer's eye for edge cases and quality
+
+🔍 What I'm Working On
+🤖 Expanding automation coverage using Playwright and Appium for cross-platform testing
+📱 AI-powered Speech-to-Text Android app with JUnit + Espresso + Firebase Test Lab
+🏭 ADB-based automation tool for factory HMI touch panels integrated into CI/CD pipelines
+
 🔧 Skills & Tools
-💻 Programming: Python, SQL, MATLAB, C
-📊 Data & Analytics: Pandas, NumPy, Power BI, Tableau
-📡 Wireless & Antenna Design: MATLAB, CADENCE 
-📜 Machine Learning: Scikit-learn, TensorFlow, Deep Learning
+💻 Programming: Java, Python, SQL, Kotlin
+🧪 Test Automation: Selenium WebDriver, Playwright, Appium, TestNG, JUnit, REST Assured
+🔁 CI/CD & DevOps: Maven, Jenkins, Docker, GitHub
+📱 Mobile: Android Studio, Firebase, Espresso
+⚡ Hardware & Embedded: FPGA (Xilinx Artix-7), MATLAB, Cadence (VLSI)
 
-🌱 I’m currently exploring
-Advanced Data Analytics & Business Intelligence
-AI-driven solutions for Automation & Decision Making
-Cloud Computing & Edge AI for Smart Systems
-💡 Let's Collaborate!
-I’m open to collaborations on data science, machine learning, and automation projects. Feel free to reach out!
+🌱 Currently Exploring
+🔍 Performance & API testing with REST Assured and Postman
+🤖 AI/ML integration testing strategies
+☁️ Cloud-based test execution and reporting
 
-📬 How to Reach Me:
+💡 Let's Connect!
+I'm open to QA, SDET, and automation engineering opportunities, as well as collaborations on Android or AI projects. Always happy to talk testing, quality, and software craftsmanship!
 
-📧 Email: [mugdhamridul39@gmail.com]
-💼 LinkedIn: [https://www.linkedin.com/in/mugdha-mridul-013575239]
+📬 Reach Me:
+📧 mugdhamridul39@gmail.com
+💼 linkedin.com/in/mugdha-mridul-013575239
+🐙 github.com/Mugdha-52
 
 
